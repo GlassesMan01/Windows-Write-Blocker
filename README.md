@@ -35,11 +35,11 @@ A Python-based GUI tool for enabling and disabling write protection on Windows d
 
 ### Option 2: Using the Python Script
 1. Ensure Python is installed on your system.
-2. Clone the repository or download the `Windows_Write_Blocker.py` file.
+2. Clone the repository or download the `Windows WriteBlocker.py` file.
 3. Install the required dependencies (see above).
 4. Run the script with Python:
    ```bash
-   python Windows_Write_Blocker.py
+   python Windows WriteBlocker.py
 ## How It Works
 
 ### Device Detection
